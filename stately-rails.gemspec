@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["john@seriouslyawesome.com"]
   spec.summary       = %q{Stately symbol font, packaged for Ruby on Rails.}
   spec.description   = %q{Stately symbol font, packaged for Ruby on Rails.}
-  spec.homepage      = "https://github.com/SeriouslyAwesome/stately-rails"
+  spec.homepage      = "https://github.com/Velocis/stately-rails"
   spec.license       = "MIT"
 
   spec.files         = Dir["LICENSE.txt", "README.md"]
