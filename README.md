@@ -124,5 +124,5 @@ Refer to the [Stately documentation](https://github.com/intridea/stately) for mo
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
-## Thanks
-Thanks to [Ben Markowitz](https://twitter.com/bpmarkowitz) and [Intridea](http://www.intridea.com) for making [Stately](http://intridea.github.io/stately/)!
+## Acknowledgements
+Made by [John Ellis](http://www.iamjohnellis.com) at [Velocis](http://velocis.us). Special thanks to [Ben Markowitz](https://twitter.com/bpmarkowitz) and [Intridea](http://www.intridea.com) for making [Stately](http://intridea.github.io/stately/)
